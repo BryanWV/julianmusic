@@ -1,7 +1,47 @@
 ﻿@page "/"
+@inject IJSRuntime JS
+<!-- Hero Section -->
+<section id="hero" class="hero section dark-background">
 
-<PageTitle>Home</PageTitle>
+    <img src="../Music-portfolio-blazor/images/background.jpg" alt="" data-aos="fade-in">
 
-<h1>Hello, world!</h1>
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-Welcome to your new app.
+        <h2>Julián Beltrán<br></h2>
+        <p>Soy <span class="typed" data-typed-items="Arreglista, Cantante, Transcriptor, Músico">Requintista</span>
+        </p>
+        <div class="social-links">
+            <a href="https://www.facebook.com/share/HcqiweZd8Q2ZkykM/"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.instagram.com/julian_requintista_178"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.youtube.com/@@JulianSaavedraRequintista"><i class="bi bi-youtube"></i></a>
+        </div>
+    </div>
+
+</section><!-- /Hero Section -->
+
+
+<!-- About Section -->
+    <About />
+<!-- /About Section -->
+
+<!-- Services Section -->
+    <Services />
+<!-- /Services Section -->
+
+<!-- Contact Section -->
+    <Contact />
+<!-- /Contact Section -->
+
+
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            await JS.InvokeVoidAsync("initializeAOS");
+        }
+    }
+
+
+}
