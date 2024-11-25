@@ -21,7 +21,7 @@
 }
 
 .about .content .fst-italic[b-wk36vz4ubs] {
-    color: color-mix(in srgb, var(--default-color), var(--contrast-color) 50%);
+    color: color-mix(in srgb, var(--default-color), var(--contrast-color) 45%);
 }
 
 .about .content ul[b-wk36vz4ubs] {
@@ -36,7 +36,7 @@
 
 .about .content ul i[b-wk36vz4ubs] {
     color: var(--accent-color);
-    margin-right: 0.5rem;
+    margin-right: 0.55rem;
     line-height: 1.2;
     font-size: 1.25rem;
 }
