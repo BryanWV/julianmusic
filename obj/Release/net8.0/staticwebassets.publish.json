@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XLBQD4uWAcegCWeW5VkpLV1zMuWAwQ5knSagAl101R0=",
+  "Hash": "fNOygmZavQ/dYj4sNgXUDAGaamVu8K9V+6NXLEVaIOo=",
   "Source": "julianmusic",
   "BasePath": "/",
   "Mode": "Root",
@@ -2542,6 +2542,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/guitar.png"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/images/main-image.jpg",
+      "SourceId": "julianmusic",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/main-image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/main-image.jpg"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/index.html",

@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets/images/guitar.png"
     },
     {
+      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/main-image.jpg",
+      "PackagePath": "staticwebassets/images/main-image.jpg"
+    },
+    {
       "Id": "/home/bwilches/Documents/julianmusic/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },
