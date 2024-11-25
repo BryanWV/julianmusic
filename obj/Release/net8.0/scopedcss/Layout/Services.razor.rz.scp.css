@@ -1,0 +1,56 @@
+/*--------------------------------------------------------------
+# Services Section
+--------------------------------------------------------------*/
+.services .service-item[b-4xd60oru07] {
+    position: relative;
+    height: 100%;
+    margin-bottom: 30px;
+}
+
+.services .service-item .icon[b-4xd60oru07] {
+    margin-right: 20px;
+}
+
+.services .service-item .icon i[b-4xd60oru07] {
+    color: var(--accent-color);
+    font-size: 40px;
+    line-height: 0;
+    transition: 0.3s;
+}
+
+.services .service-item:hover .icon i[b-4xd60oru07] {
+    color: var(--accent-color);
+}
+
+.services .service-item .title[b-4xd60oru07] {
+    color: var(--heading-color);
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 20px;
+    transition: 0.3s;
+}
+
+.services .service-item .description[b-4xd60oru07] {
+    font-size: 15px;
+    color: color-mix(in srgb, var(--default-color), transparent 30%);
+    margin-bottom: 10px;
+}
+
+.services .service-item .readmore[b-4xd60oru07] {
+    display: flex;
+    align-items: center;
+    color: color-mix(in srgb, var(--default-color), transparent 50%);
+    transition: 0.3s;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.services .service-item .readmore i[b-4xd60oru07] {
+    margin-left: 8px;
+}
+
+.services .service-item:hover .title[b-4xd60oru07],
+.services .service-item:hover .readmore[b-4xd60oru07],
+.services .service-item:hover .icon i[b-4xd60oru07] {
+    color: var(--accent-color);
+}

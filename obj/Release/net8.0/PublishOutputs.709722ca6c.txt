@@ -1,0 +1,1 @@
+/home/bwilches/Documents/julianmusic/bin/Release/net8.0/publish/web.config
