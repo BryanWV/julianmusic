@@ -23,7 +23,7 @@ Web page is written in spanish language
 Download dotnet and use the following command:
 - dotnet new blazorwasm -o name-of-project
 It is recommended that the name of the project is the same as the GitHub repo
-
+- To publish the project into GitHub Pages, it is required to configure in settings-pages-Branch-main-/docs and then save
+- the bash script is made with the purpose to automate the extra required steps (create empty nojekyll file, 404.html file and pushing the project into the remote repo)
 ## Acknoledgements
 - Sed command manual: https://www.gnu.org/software/sed/manual/
-- 
