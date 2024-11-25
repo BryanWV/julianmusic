@@ -1,0 +1,45 @@
+/*--------------------------------------------------------------
+# About Section
+--------------------------------------------------------------*/
+.about .profile-img[b-wk36vz4ubs] {
+    border: 20px solid var(--accent-color);
+    padding: 0;
+}
+
+.about .profile-img img[b-wk36vz4ubs] {
+    margin-top: -60px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    position: relative;
+    z-index: 1;
+}
+
+.about .content h3[b-wk36vz4ubs] {
+    font-size: 1.75rem;
+    font-weight: 700;
+}
+
+.about .content .fst-italic[b-wk36vz4ubs] {
+    color: color-mix(in srgb, var(--default-color), var(--contrast-color) 50%);
+}
+
+.about .content ul[b-wk36vz4ubs] {
+    list-style: none;
+    padding: 0;
+}
+
+.about .content ul li[b-wk36vz4ubs] {
+    padding: 10px 0 0 0;
+    display: flex;
+}
+
+.about .content ul i[b-wk36vz4ubs] {
+    color: var(--accent-color);
+    margin-right: 0.5rem;
+    line-height: 1.2;
+    font-size: 1.25rem;
+}
+
+.about .content p:last-child[b-wk36vz4ubs] {
+    margin-bottom: 0;
+}

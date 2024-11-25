@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = julianmusic
+build_property.RootNamespace = julianmusic
+build_property.ProjectDir = /home/bwilches/Documents/julianmusic/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/bwilches/Documents/julianmusic
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/bwilches/Documents/julianmusic/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bwilches/Documents/julianmusic/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bwilches/Documents/julianmusic/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bwilches/Documents/julianmusic/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bwilches/Documents/julianmusic/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/bwilches/Documents/julianmusic/Layout/About.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0Fib3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-wk36vz4ubs
+
+[/home/bwilches/Documents/julianmusic/Layout/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0NvbnRhY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-60gns3hs97
+
+[/home/bwilches/Documents/julianmusic/Layout/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0Zvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8hos5sr3re
+
+[/home/bwilches/Documents/julianmusic/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-eaoqbnsjtb
+
+[/home/bwilches/Documents/julianmusic/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-g5pw53w6ki
+
+[/home/bwilches/Documents/julianmusic/Layout/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L1NlcnZpY2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4xd60oru07
