@@ -27,3 +27,4 @@ It is recommended that the name of the project is the same as the GitHub repo
 - the bash script is made with the purpose to automate the extra required steps (create empty nojekyll file, 404.html file and pushing the project into the remote repo)
 ## Acknoledgements
 - Sed command manual: https://www.gnu.org/software/sed/manual/
+- Favicon Generator: favicon.io
