@@ -25,12 +25,8 @@
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
-    },
-    {
-      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/icon-192.png",
-      "PackagePath": "staticwebassets/icon-192.png"
+      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
       "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/background.jpg",
