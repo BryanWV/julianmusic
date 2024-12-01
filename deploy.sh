@@ -7,7 +7,8 @@ mkdir docs
 # Variables
 OUTPUT_DIR="docs" #Folder that GitHub Pages allows deployment
 INDEX_FILE="docs/index.html"
-TIMESTAMP =$(date -u +"%Y-%m-%d %T %Z")
+TIMESTAMP=$(date -u +"%Y-%m-%d %T %Z")
+
 dotnet publish --configuration Release
 cp -r bin/Release/net8.0/publish/wwwroot/* $OUTPUT_DIR/
 
