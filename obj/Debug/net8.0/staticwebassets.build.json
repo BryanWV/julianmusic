@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xwJeMCys4hfWJMd9++/z2HSIMsRdBvQIOKUePT8jEA4=",
+  "Hash": "Aort0kz4HrJAw/nTrVKp4ALN1xBd+G75FjYsqFO53D0=",
   "Source": "julianmusic",
   "BasePath": "/",
   "Mode": "Root",
@@ -7864,12 +7864,12 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/favicon.png",
+      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/favicon.ico",
       "SourceId": "julianmusic",
       "SourceType": "Discovered",
       "ContentRoot": "/home/bwilches/Documents/julianmusic/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "favicon.png",
+      "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7880,26 +7880,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/icon-192.png",
-      "SourceId": "julianmusic",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "icon-192.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/icon-192.png"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/images/background.jpg",
@@ -7938,6 +7919,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/guitar.png"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/images/main-image.jpg",
+      "SourceId": "julianmusic",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/main-image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/main-image.jpg"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/index.html",

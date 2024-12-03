@@ -25,12 +25,8 @@
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
-    },
-    {
-      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/icon-192.png",
-      "PackagePath": "staticwebassets/icon-192.png"
+      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
       "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/background.jpg",
@@ -39,6 +35,10 @@
     {
       "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/guitar.png",
       "PackagePath": "staticwebassets/images/guitar.png"
+    },
+    {
+      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/main-image.jpg",
+      "PackagePath": "staticwebassets/images/main-image.jpg"
     },
     {
       "Id": "/home/bwilches/Documents/julianmusic/wwwroot/index.html",

@@ -406,6 +406,8 @@
 /home/bwilches/Documents/julianmusic/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Numerics.wasm.gz
 /home/bwilches/Documents/julianmusic/bin/Debug/net8.0/wwwroot/_framework/System.Private.CoreLib.wasm.gz
 /home/bwilches/Documents/julianmusic/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz
+/home/bwilches/Documents/julianmusic/bin/Debug/net8.0/docs/sample-data/weather.json
+/home/bwilches/Documents/julianmusic/bin/Debug/net8.0/docs/_framework/blazor.boot.json
 /home/bwilches/Documents/julianmusic/bin/Debug/net8.0/julianmusic.staticwebassets.runtime.json
 /home/bwilches/Documents/julianmusic/bin/Debug/net8.0/julianmusic.dll
 /home/bwilches/Documents/julianmusic/bin/Debug/net8.0/julianmusic.pdb
