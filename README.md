@@ -1,9 +1,9 @@
 # Blazor Portfolio
 
 ## Description
-This project is a simple web page designed to showcase basic web development skills, and also to practice in Blazor capacibilites and Razor syntax. 
-The main purpose of this project is to help present the trajectory of a music colleague, his achievements and work.
-
+This project is a simple web page designed to showcase basic web development skills, and also to practice in Blazor capacibilites and Razor syntax. <br>
+The main purpose of this project is to help present the trajectory of a music colleague, his achievements and work. <br>
+To see the project go to this [link](https://bryanwv.github.io/julianmusic/)
 
 ## Features
 - Responsive design
