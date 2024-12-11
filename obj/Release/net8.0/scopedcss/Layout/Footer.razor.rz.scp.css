@@ -3,7 +3,7 @@
 --------------------------------------------------------------*/
 .footer[b-8hos5sr3re] {
     color: var(--default-color);
-    background-color: var(--background-color);
+    background-color: var(--accent-color);
     font-size: 14px;
     text-align: center;
     padding: 30px 0;
@@ -50,12 +50,13 @@
     text-decoration: none;
 }
 
+.footer .footer-logo[b-8hos5sr3re] {
+    justify-content: center;
+    display: flex;
+
+}
+
 .footer .copyright[b-8hos5sr3re] {
     padding-top: 25px;
     border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
-}
-
-.footer .credits[b-8hos5sr3re] {
-    font-size: 13px;
-    padding-top: 5px;
 }

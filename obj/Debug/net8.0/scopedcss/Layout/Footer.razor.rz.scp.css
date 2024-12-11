@@ -1,0 +1,61 @@
+/*--------------------------------------------------------------
+# Global Footer
+--------------------------------------------------------------*/
+.footer[b-8hos5sr3re] {
+    color: var(--default-color);
+    background-color: var(--background-color);
+    font-size: 14px;
+    text-align: center;
+    padding: 30px 0;
+    position: relative;
+}
+
+.footer h3[b-8hos5sr3re] {
+    font-size: 36px;
+    font-weight: 700;
+    position: relative;
+    padding: 0;
+    margin: 0 0 15px 0;
+}
+
+.footer p[b-8hos5sr3re] {
+    font-size: 15;
+    font-style: italic;
+    padding: 0;
+    margin: 0 0 30px 0;
+}
+
+.footer .social-links[b-8hos5sr3re] {
+    margin: 0 0 30px 0;
+}
+
+.footer .social-links a[b-8hos5sr3re] {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--accent-color);
+    color: var(--contrast-color);
+    line-height: 1;
+    margin: 0 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+
+.footer .social-links a:hover[b-8hos5sr3re] {
+    background: color-mix(in srgb, var(--accent-color), transparent 20%);
+    text-decoration: none;
+}
+
+.footer .copyright[b-8hos5sr3re] {
+    padding-top: 25px;
+    border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+}
+
+.footer .singer[b-8hos5sr3re] {
+    font-size: 13px;
+    padding-top: 5px;
+}
