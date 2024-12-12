@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets/sample-data/weather.json"
     },
     {
+      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/site.js",
+      "PackagePath": "staticwebassets/site.js"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.julianmusic.props",
       "PackagePath": "build\\julianmusic.props"
     },

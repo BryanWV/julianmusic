@@ -51,7 +51,7 @@
 .contact .info-wrap[b-60gns3hs97] {
     background-color: var(--surface-color);
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
-    padding: 30px;
+    padding: 15px;
     margin-bottom: 30px;
 }
 
@@ -90,8 +90,8 @@
 # Global Footer
 --------------------------------------------------------------*/
 .footer[b-8hos5sr3re] {
-    color: var(--default-color);
-    background-color: var(--background-color);
+    color: var(--contrast-color);
+    background-color: var(--accent-color);
     font-size: 14px;
     text-align: center;
     padding: 30px 0;
@@ -138,14 +138,15 @@
     text-decoration: none;
 }
 
+.footer .footer-logo[b-8hos5sr3re] {
+    justify-content: center;
+    display: flex;
+
+}
+
 .footer .copyright[b-8hos5sr3re] {
     padding-top: 25px;
     border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
-}
-
-.footer .singer[b-8hos5sr3re] {
-    font-size: 13px;
-    padding-top: 5px;
 }
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-eaoqbnsjtb] {
