@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7FHg3JWy4H+msdQs4OQ/9TPBEPmFTQm9tnRioqpcFcA=",
+  "Hash": "Aort0kz4HrJAw/nTrVKp4ALN1xBd+G75FjYsqFO53D0=",
   "Source": "julianmusic",
   "BasePath": "/",
   "Mode": "Root",
@@ -7976,25 +7976,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/sample-data/weather.json"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/site.js",
-      "SourceId": "julianmusic",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "site.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/site.js"
     }
   ]
 }
