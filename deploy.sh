@@ -12,15 +12,15 @@ TIMESTAMP=$(date -u +"%Y-%m-%d %T %Z")
 dotnet publish --configuration Release
 cp -r bin/Release/net8.0/publish/wwwroot/* $OUTPUT_DIR/
 
-#Update <base> href in index.html
+#Updating <base> href in index.html
 
 if [ -f $INDEX_FILE ];
 then
-	echo "index file exists"
+	echo -e "\e[34mIndex file exists\e[0m"
 	sed -i 's/base href="\/"/base href="julianmusic"/g' $INDEX_FILE
-	echo "Updated <base href> in $INDEX_FILE"
+	echo -e "\e[32mUpdated <base href> in $INDEX_FILE\e[0m"
 else
-	echo "index.html file not found in $OUTPUT_DIR"
+	echo "\e[31mindex.html file not found in $OUTPUT_DIR\e[0m"
 	exit 1
 fi
 
