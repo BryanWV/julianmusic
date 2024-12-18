@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("julianmusic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c19be39054e41a6ec964a90e36e09d8323310bb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523c20ba5dc3113e8509a1dc2f9ffe28e4e1afd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("julianmusic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("julianmusic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
