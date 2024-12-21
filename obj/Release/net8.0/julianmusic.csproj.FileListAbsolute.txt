@@ -1034,3 +1034,4 @@
 /home/bwilches/Documents/julianmusic/obj/Release/net8.0/refint/julianmusic.dll
 /home/bwilches/Documents/julianmusic/obj/Release/net8.0/julianmusic.pdb
 /home/bwilches/Documents/julianmusic/obj/Release/net8.0/ref/julianmusic.dll
+/home/bwilches/Documents/julianmusic/obj/Release/net8.0/scopedcss/Layout/Video.razor.rz.scp.css
