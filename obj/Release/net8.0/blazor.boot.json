@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "julianmusic",
   "resources": {
-    "hash": "sha256-ldGTjOZtpHwrAfATvxExIwVOY5OPTf/ILM3hQVrXbkg=",
+    "hash": "sha256-yqGoDE4Zpwy7wiMI1j80aSJ7nQIhzU8ncuwfg0zszuE=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.87ek71c6r0.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "julianmusic.wasm": "sha256-lLLgA/ZvDrEWyp3zaEDE+Mp+j+LgM3B8KqmAzBeq/jA="
+      "julianmusic.wasm": "sha256-CmVMm5opxDQCMwhj0ixYlLgNs5TSyJjU2Voe1f9/ku8="
     },
     "pdb": {
-      "julianmusic.pdb": "sha256-Mb3voB11ux8xtMthEafsVgg7u+nGJgmwtQhpuHAlorU="
+      "julianmusic.pdb": "sha256-Veo8SLPmhCSk/ooBFpjRtIs77lpy2LoVP7+HeGZDYlg="
     }
   },
   "cacheBootResources": true,
