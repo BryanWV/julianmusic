@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "julianmusic",
   "resources": {
-    "hash": "sha256-4cpVyREfzRpN/FU1aUroVElnQto/W9qO50LDvhdtGJc=",
+    "hash": "sha256-YPL+1eDbEoaCJZ3oIfmWF8QmE+3Yjf6wC+NMyOKJozE=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.uan9gojx2y.js": "sha256-ERqvs7Aj650n1Ydca90IMfnkPzusC7/hWWMjmGRL3ME="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "julianmusic.wasm": "sha256-wDv1RTC9TvG2g3ypkm1a7DdftG1+lqY9Um0LEjwAtGQ=",
+      "julianmusic.wasm": "sha256-agFhFhaYywupCZTlLfAO69vVVEihLA6yBvwhwBnCziI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-WwMwS2trCBOEIy2Tkh8PcyD4VJy+eeWQzYy2CksgMBQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-FE67YsiQ/Irg18hlNe2QV3GDAXAgHWCTghXVy8ILpkc=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-mq9Bf+1fRF6YC/ro2NPxtoh+szT1wSIzMzJ6FpNjYu8=",
