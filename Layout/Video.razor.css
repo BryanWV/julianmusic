@@ -1,17 +1,14 @@
 .video-container {
-    position: relative;
-    width: 100%;
-    max-width: 800px;
-    margin: 0 auto;
-    padding-top: 56.25%;
-    overflow: hidden;
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+} /* Class to center youtube video */
 
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+.youtube-frame {
+    position: relative;
+    aspect-ratio: 16/9;
+    width: 850%;
     border: none;
-}
+    overflow: hidden;
+} /* Class to make the frame responsive */
