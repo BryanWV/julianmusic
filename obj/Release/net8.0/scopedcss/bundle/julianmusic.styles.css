@@ -546,3 +546,17 @@ main[b-eaoqbnsjtb] {
     color: var(--accent-color);
 }
 /* /Layout/Video.razor.rz.scp.css */
+.video-container[b-vjh55bpod2] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+} /* Class to center youtube video */
+
+.youtube-frame[b-vjh55bpod2] {
+    position: relative;
+    aspect-ratio: 16/9;
+    width: 850%;
+    border: none;
+    overflow: hidden;
+} /* Class to make the frame responsive */
