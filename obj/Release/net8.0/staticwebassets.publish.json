@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HchobSKNg8ar7cXg58hBqtQiZz1B4FUqs7uZVAeARWo=",
+  "Hash": "WtgGqVJSxxdHdGIM4v+7+xwONF+in8kfKmZDhDtLb9g=",
   "Source": "julianmusic",
   "BasePath": "/",
   "Mode": "Root",
@@ -2485,6 +2485,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/images/background-resized.jpg",
+      "SourceId": "julianmusic",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/background-resized.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/background-resized.jpg"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/wwwroot/images/background.jpg",

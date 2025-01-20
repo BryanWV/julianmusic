@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/background-resized.jpg",
+      "PackagePath": "staticwebassets/images/background-resized.jpg"
+    },
+    {
       "Id": "/home/bwilches/Documents/julianmusic/wwwroot/images/background.jpg",
       "PackagePath": "staticwebassets/images/background.jpg"
     },
