@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vtCt2JXCoAY=",
+  "dgSpecHash": "CbTpPLnWuX8=",
   "success": true,
   "projectFilePath": "/home/bwilches/Documents/julianmusic/julianmusic.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,7 @@
     "/home/bwilches/.nuget/packages/microsoft.jsinterop.webassembly/8.0.11/microsoft.jsinterop.webassembly.8.0.11.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.net.illink.tasks/8.0.12/microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.12/microsoft.net.sdk.webassembly.pack.8.0.12.nupkg.sha512",
-    "/home/bwilches/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
-    "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.12/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.12.nupkg.sha512"
+    "/home/bwilches/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
