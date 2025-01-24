@@ -177,7 +177,7 @@ code {
 
 
 /*--------------------------------------------------------------
-# Disable aos animation delay on mobile devices
+# Disable aos anima tion delay on mobile devices
 --------------------------------------------------------------*/
 @media screen and (max-width: 768px) {
     [data-aos-delay] {
@@ -238,6 +238,7 @@ section,
 }
 
 .hero img {
+    overflow: visible;
     position: absolute;
     inset: 0;
     display: block;
