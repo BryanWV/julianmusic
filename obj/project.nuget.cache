@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CbTpPLnWuX8=",
+  "dgSpecHash": "hew8rxwtoME=",
   "success": true,
   "projectFilePath": "/home/bwilches/Documents/julianmusic/julianmusic.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,10 @@
     "/home/bwilches/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.jsinterop/8.0.11/microsoft.jsinterop.8.0.11.nupkg.sha512",
     "/home/bwilches/.nuget/packages/microsoft.jsinterop.webassembly/8.0.11/microsoft.jsinterop.webassembly.8.0.11.nupkg.sha512",
-    "/home/bwilches/.nuget/packages/microsoft.net.illink.tasks/8.0.12/microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
-    "/home/bwilches/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.12/microsoft.net.sdk.webassembly.pack.8.0.12.nupkg.sha512",
-    "/home/bwilches/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+    "/home/bwilches/.nuget/packages/microsoft.net.illink.tasks/8.0.13/microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.13/microsoft.net.sdk.webassembly.pack.8.0.13.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.13.nupkg.sha512"
   ],
   "logs": []
 }

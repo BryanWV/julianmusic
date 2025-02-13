@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5x+vKnjR6AtM0yl2AFsVLIGBWeFTRvZMURirk+8xYmw=",
+  "Hash": "UKCmkw8eghHIK3ouX5byPyjPfw2cYn1BwQ7bFJ0vcxg=",
   "Source": "julianmusic",
   "BasePath": "/",
   "Mode": "Root",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/dotnet.js"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/dotnet.js"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/dotnet.js.map"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/dotnet.js.map"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.12.o44otfbmqi.js",
+      "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.13.2ngiaj9l8h.js",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
       "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.12.o44otfbmqi.js",
+      "RelativePath": "_framework/dotnet.native.8.0.13.2ngiaj9l8h.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/dotnet.native.js"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/dotnet.native.js"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/dotnet.native.wasm"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/dotnet.native.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.12.ouv6u08ga9.js",
+      "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.13.41vlb7g5le.js",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
       "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.12.ouv6u08ga9.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.13.41vlb7g5le.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/dotnet.runtime.js"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/dotnet.runtime.js"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/dotnet.runtime.js.map"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/dotnet.runtime.js.map"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/icudt_CJK.dat"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/icudt_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/icudt_EFIGS.dat"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/icudt_no_CJK.dat"
+      "OriginalItemSpec": "/home/bwilches/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/julianmusic.pdb",
@@ -3931,25 +3931,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Text.Encoding.Extensions.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/0mun4uq4cq.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
-    },
-    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/0smvhq162j.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -4159,6 +4140,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Globalization.Calendars.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/2ngiaj9l8h.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.13.2ngiaj9l8h.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.13.2ngiaj9l8h.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.13.2ngiaj9l8h.js"
+    },
+    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/2qwlreslbg.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -4311,6 +4311,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Net.Ping.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/41vlb7g5le.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.13.41vlb7g5le.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.13.41vlb7g5le.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.13.41vlb7g5le.js"
+    },
+    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/47gqdg5gvg.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -4385,6 +4404,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/Microsoft.Win32.Registry.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/4m7670vo70.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/4rd2efvnxu.gz",
@@ -4748,6 +4786,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Threading.Channels.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/80re2ujczd.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm"
+    },
+    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/8180pnukwz.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -4767,25 +4824,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.IO.Pipelines.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/86u8cr9bv4.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map"
-    },
-    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/8f5m0sa9ym.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -4803,6 +4841,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/8w2agoqmwl.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/91rkdenk3r.gz",
@@ -5223,6 +5280,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Security.Cryptography.Cng.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/cbjnl7uceb.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js"
+    },
+    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/cchu3wzs1d.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -5449,25 +5525,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Net.WebProxy.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/eebr1rvycb.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/eekabbzgho.gz",
@@ -5698,6 +5755,25 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.wasm"
     },
     {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/h8be72xli5.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
+    },
+    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/hc4viey05c.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -5734,25 +5810,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/hiqehd5ark.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.wasm"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/hk09142mtf.gz",
@@ -6458,25 +6515,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Threading.ThreadPool.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/o0hqg2yt43.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js"
-    },
-    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/o0r0xyxl13.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -6494,25 +6532,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Reflection.Emit.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/o44otfbmqi.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.12.o44otfbmqi.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.12.o44otfbmqi.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.native.8.0.12.o44otfbmqi.js"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/o4mtjc5zwq.gz",
@@ -6629,25 +6648,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/blazor.boot.json"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/ouv6u08ga9.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.12.ouv6u08ga9.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.12.ouv6u08ga9.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.8.0.12.ouv6u08ga9.js"
-    },
-    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/ox4wyfkedy.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -6684,6 +6684,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Xml.XmlDocument.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/p5gusvjjzl.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/p656bbx13q.gz",
@@ -6798,25 +6817,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Net.NetworkInformation.wasm"
-    },
-    {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/put8gwf12d.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/q5i7b7l48s.gz",
@@ -7617,25 +7617,6 @@
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Linq.wasm"
     },
     {
-      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/xi7yj8wvqb.gz",
-      "SourceId": "julianmusic",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
-    },
-    {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/xn9x4kwyys.gz",
       "SourceId": "julianmusic",
       "SourceType": "Computed",
@@ -7748,6 +7729,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/System.Reflection.Extensions.wasm"
+    },
+    {
+      "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/yluugiu7ou.gz",
+      "SourceId": "julianmusic",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/bwilches/Documents/julianmusic/bin/Release/net8.0/wwwroot/_framework/dotnet.js.map"
     },
     {
       "Identity": "/home/bwilches/Documents/julianmusic/obj/Release/net8.0/compressed/zby8alu42o.gz",
