@@ -6,6 +6,6 @@
 -DGEN_PINVOKE=1
 -emit-llvm
 "-I/home/bwilches/Documents/julianmusic/obj/Release/net8.0/wasm/for-publish"
-"-I/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/include/mono-2.0"
-"-I/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.12/runtimes/browser-wasm/native/include/wasm"
+"-I/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/include/mono-2.0"
+"-I/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.13/runtimes/browser-wasm/native/include/wasm"
 -g
